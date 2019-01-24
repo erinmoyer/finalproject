@@ -163,3 +163,8 @@ wordcloud(nonum$word, nonum$n, random.order=FALSE, max.words=75, colors=beecolor
 ``` r
 write_csv(nonum, "/home/erin.moyer/Honeybee/Hunnybee/Bee_Word.csv")
 ```
+
+Shiny App
+---------
+
+<https://erinmoyer.shinyapps.io/Hunnybee/>
